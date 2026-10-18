@@ -115,7 +115,6 @@ src/
    - Tailored interfaces for Buyers, Sellers, Bank Officers, and Administrators based on the authenticated user's role.
 
 ---
-
 ## How to Run the Frontend
 
 ```bash

@@ -119,7 +119,6 @@ visual-ml-service/
 - **`GET /dowry/category-prices`**: Returns average price stats for the top-5 cheapest items per category to ground the dowry budget engine.
 
 ---
-
 ## How to Run the Visual ML Service
 
 ```bash

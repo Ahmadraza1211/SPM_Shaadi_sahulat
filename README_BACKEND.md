@@ -10,7 +10,6 @@ budget through Retail and Thrift storefronts — with COD and BNPL financing.
 ## Group Members
 - Ahmad Raza 22F-3325  (Team Lead + Developer)
 - Rafay Ali 22F-3619  (Team Lead + backend Developer)
-
 ## Technologies
 - Frontend: React
 - Backend: Node.js / Express
